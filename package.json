@@ -1,0 +1,26 @@
+{
+  "name": "@twilson63/globalcss",
+  "version": "1.0.1",
+  "description": "create css file",
+  "main": "index.js",
+  "bin": {
+    "globalcss": "index.js"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author": "Tom",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twilson63/html.git"
+  },
+  "keywords": [
+    "html",
+    "generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/twilson63/html/issues"
+  },
+  "homepage": "https://github.com/twilson63/html#readme"
+}
